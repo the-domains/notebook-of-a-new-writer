@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T23:52:37.719Z'
+datePublished: '2016-06-16T23:53:23.661Z'
 isBasedOnUrl: 'https://mtsalisbury.wordpress.com/2016/03/23/the-power-of-a-telephone-call/'
 keywords:
   - plumber
@@ -17,7 +17,7 @@ author:
   - name: mtsalisbury
     url: 'https://mtsalisbury.wordpress.com/author/mtsalisbury/'
     avatar: {}
-dateModified: '2016-06-16T23:52:14.293Z'
+dateModified: '2016-06-16T23:53:23.343Z'
 title: ''
 app_links: []
 publisher:
@@ -27,8 +27,8 @@ publisher:
   domain: mtsalisbury.wordpress.com
 description: The Power of a Telephone Call
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-06-16-the-power-of-a-telephone-call.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
