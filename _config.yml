@@ -1,16 +1,16 @@
 typography_spectrum: 0.4068895138334483
 color:
-  brandStrength: 0.2195662846788764
-  lightness: 0.7555900181178004
-  saturation: 0.25284305098466575
-  rhythmicContrast: 0.8794435632880777
+  brandStrength: 0.9475104424636811
+  lightness: 0.8036976051516831
+  saturation: 0.8937592529691756
+  rhythmicContrast: 0.5886286695022136
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.9171026451513171
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.7365493553224951
 author:
   name: ''
   email: ''
