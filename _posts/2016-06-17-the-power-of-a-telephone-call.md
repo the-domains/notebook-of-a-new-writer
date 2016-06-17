@@ -4,19 +4,19 @@ description: >-
   and case studies that I read fall in line with my everyday life experiences.
   Recently, one topic, in particular, stood out from the rest. The value of a
   telephone call.
-dateModified: '2016-06-17T11:38:03.877Z'
-datePublished: '2016-06-17T11:38:30.045Z'
+dateModified: '2016-06-17T11:51:46.025Z'
+datePublished: '2016-06-17T11:55:22.560Z'
 title: The Power of a Telephone Call
 author: []
-starred: false
 sourcePath: _posts/2016-06-17-the-power-of-a-telephone-call.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![The Power of a Telephone Call](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4861d3f1-89eb-4218-b7c7-1a9afc67f0ae.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ede73cf-086e-4592-b8f1-d8db4cfa8f0a.jpg)
 
 ## The Power of a Telephone Call
 
