@@ -3,12 +3,12 @@ description: >-
   Recently, my wife and I visited her home state of Michigan. Remove the winter
   snow and local accents and you’ll easily confuse this state to being south of
   the Mason Dixon Line. 
-dateModified: '2016-06-17T00:38:35.153Z'
-datePublished: '2016-06-17T00:39:01.715Z'
+dateModified: '2016-06-17T11:41:22.482Z'
+datePublished: '2016-06-17T11:41:22.981Z'
 title: Bicycling around the world on an Island
 author: []
-starred: false
 sourcePath: _posts/2016-06-17-bicycling-around-the-world-on-an-island.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
